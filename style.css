@@ -1,10 +1,12 @@
-nav{
-    margin-left: auto;
-    margin-right: auto;
-    background-color: rgb(90, 74, 90);
-    height: 300px;
-    width: 400px;   
+div{
+    border: 2px solid rgb(0, 0, 0);
+    width: 200px;
+    height: 100px;
+    margin: 10px 20px;
+
 }
-a{
-    color: azure;
+#container{
+    border: 2px dashed red;
+    width: 80%;
+    margin: 20px auto;
 }
